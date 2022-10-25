@@ -238,7 +238,6 @@ GEM
     minitest (5.15.0)
     msgpack (1.4.5)
     multi_json (1.15.0)
-    mysql2 (0.5.3)
     net-imap (0.2.3)
       digest
       net-protocol
@@ -394,7 +393,6 @@ DEPENDENCIES
   google-cloud-storage (~> 1.8)
   importmap-rails
   jbuilder
-  mysql2 (~> 0.5)
   pg
   puma (~> 5.0)
   rack-cors
